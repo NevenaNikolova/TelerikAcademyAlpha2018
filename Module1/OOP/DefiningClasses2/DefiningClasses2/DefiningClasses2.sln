@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3DPoint", "DefiningClasses2\3DPoint.csproj", "{53968FE7-A3CC-4A03-9CA5-49AB55FADB06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Point3DTask", "Point3DTask", "{7E887770-BDDF-45E0-9D79-D28165F3CB81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericClassTask", "GenericClassTask", "{77B49915-EC64-48CF-BC35-9EFD870CB74B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClassTasks", "..\GenericClassTasks\GenericClassTasks\GenericClassTasks.csproj", "{DABA9FD9-5B81-4991-896D-CFEEC48F88BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53968FE7-A3CC-4A03-9CA5-49AB55FADB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53968FE7-A3CC-4A03-9CA5-49AB55FADB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53968FE7-A3CC-4A03-9CA5-49AB55FADB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53968FE7-A3CC-4A03-9CA5-49AB55FADB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABA9FD9-5B81-4991-896D-CFEEC48F88BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABA9FD9-5B81-4991-896D-CFEEC48F88BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABA9FD9-5B81-4991-896D-CFEEC48F88BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABA9FD9-5B81-4991-896D-CFEEC48F88BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DABA9FD9-5B81-4991-896D-CFEEC48F88BE} = {77B49915-EC64-48CF-BC35-9EFD870CB74B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7318D42D-A403-4AA4-8EB8-AA1877CA7288}
+	EndGlobalSection
+EndGlobal
